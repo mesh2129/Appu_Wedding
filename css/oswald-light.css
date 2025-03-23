@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:300');
+
+.header__main,
+.menu__names {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: 0.2em;
+  line-height: 1.25;
+  text-transform: none;
+}
+
+.menu__names {
+  font-size: 25px;
+}
+
+.menu__name:first-child {
+  margin-right: -0.2em;
+}

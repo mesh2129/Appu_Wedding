@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine:700');
+
+.and {
+  font-family: 'Tangerine', serif;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: none;
+}
+
+.header__and {
+  line-height: 1.1;
+  min-width: 1.1em;
+  min-height: 1.1em;
+  letter-spacing: 0;
+}

@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.header__date {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 0.3em;
+  line-height: 2;
+  text-transform: none;
+}
